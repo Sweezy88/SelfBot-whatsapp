@@ -2,7 +2,7 @@ let fs = require('fs');
 let chalk = require('chalk');
 
 //Nomer Owner
-global.owner = ['6285890441472'] // Put your number here
+global.owner = ['19726881548'] // Put your number here
 
 // Petunjuk Di Menu
 global.inUrl = '<link>'
